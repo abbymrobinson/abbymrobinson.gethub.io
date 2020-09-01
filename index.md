@@ -10,23 +10,20 @@ An introduction to me and what I like!
 
 ```markdown
 
-**About Me**
-
--My name is Abby Robison, I am from Chesterfield which 
+About Me
+-My name is Abby Robinson, I am from Chesterfield which 
 is right outside of richmond and I am a sophmore ISAT 
 major. I have two sibblings, a brother and a sister,
 and a dog named Pippi.
 
-**My Interests**
-
+My Interests
 -I am interested in going into a biotechnology field,
 specifically into a cancer research field. I enjoy 
 helping people and I am a part of an organization on 
 campus call Camp Kesesm. We are a national non-profit 
 that supports a child through and beyond a parents cancer.
 
-**My Hobbies**
-
+My Hobbies
 -I enjoy playing volleyball and swimming, both are sports
 that I played in highschool. I like to paint, I find it
 really relaxing and I have a wall in my bedroom with all
@@ -42,6 +39,7 @@ friends and family and go to the beach.
 
 
 **Photo Gallery**
+
 ![Image](https://github.com/abbymrobinson/abbymrobinson.github.io/issues/1#issue-690518185)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abbymrobinson/abbymrobinson.gethub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
