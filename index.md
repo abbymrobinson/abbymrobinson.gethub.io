@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to Abbys Page
 
 You can use the [editor on GitHub](https://github.com/abbymrobinson/abbymrobinson.gethub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # About Me
+-My name is Abby, I am from Chesterfield Va and I am a sophmore ISAT major. I have two sibblings, a brother and a sister, and a dog named Pippi.
 ## My Interests
 ### My Hobbies
 
