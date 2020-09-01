@@ -4,25 +4,24 @@ You can use the [editor on GitHub](https://github.com/abbymrobinson/abbymrobinso
 
 Welcome to my page all about me, Abby!
 
-### Markdown
+**Get To Know Me**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An introduction to me and what I like!
 
 ```markdown
-Syntax highlighted code block
 
-About Me
+**About Me**
 -My name is Abby Robison, I am from Chesterfield which 
 is right outside of richmond and I am a sophmore ISAT 
 major. I have two sibblings, a brother and a sister,
 and a dog named Pippi.
-My Interests
+**My Interests**
 -I am interested in going into a biotechnology field,
 specifically into a cancer research field. I enjoy 
 helping people and I am a part of an organization on 
 campus call Camp Kesesm. We are a national non-profit 
 that supports a child through and beyond a parents cancer.
-My Hobbies
+**My Hobbies**
 -I enjoy playing volleyball and swimming, both are sports
 that I played in highschool. I like to paint, I find it
 really relaxing and I have a wall in my bedroom with all
@@ -30,20 +29,15 @@ my little paintings on it. I also like to spend time with
 friends and family and go to the beach.
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+**Photo Gallery**
+<img src=
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abbymrobinson/abbymrobinson.gethub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
