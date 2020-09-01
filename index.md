@@ -40,7 +40,7 @@ friends and family and go to the beach.
 
 **Photo Gallery**
 
-![Image](https://github.com/abbymrobinson/abbymrobinson.github.io/issues/1#issue-690518185)
+![Image](IMG_0065.JPG)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abbymrobinson/abbymrobinson.gethub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
