@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/abbymrobinson/abbymrobinson.gethub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my page all about me, Abby!
 
 ### Markdown
 
@@ -11,11 +11,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# About Me
--My name is Abby, I am from Chesterfield Va and I am a sophmore ISAT major. I have two sibblings, a brother and a sister, and a dog named Pippi.
-## My Interests
--I am interested in going into a biotechnology field, specifically into a cancer research field. I enjoy helping people and I am a part of an organization on campus call Camp Kesesm. We are a national non-profit that supports a child through and beyond a parents cancer.
-### My Hobbies
+About Me
+-My name is Abby Robison, I am from Chesterfield which 
+is right outside of richmond and I am a sophmore ISAT 
+major. I have two sibblings, a brother and a sister,
+and a dog named Pippi.
+My Interests
+-I am interested in going into a biotechnology field,
+specifically into a cancer research field. I enjoy 
+helping people and I am a part of an organization on 
+campus call Camp Kesesm. We are a national non-profit 
+that supports a child through and beyond a parents cancer.
+My Hobbies
+-I enjoy playing volleyball and swimming, both are sports
+that I played in highschool. I like to paint, I find it
+really relaxing and I have a wall in my bedroom with all
+my little paintings on it. I also like to spend time with
+friends and family and go to the beach.
+
 
 - Bulleted
 - List
