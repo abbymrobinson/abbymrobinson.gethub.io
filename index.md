@@ -8,15 +8,16 @@ Welcome to my page all about me, Abby!
 
 An introduction to me and what I like!
 
-```markdown
 
 About Me
+
 -My name is Abby Robinson, I am from Chesterfield which 
 is right outside of richmond and I am a sophmore ISAT 
 major. I have two sibblings, a brother and a sister,
 and a dog named Pippi.
 
 My Interests
+
 -I am interested in going into a biotechnology field,
 specifically into a cancer research field. I enjoy 
 helping people and I am a part of an organization on 
@@ -24,6 +25,7 @@ campus call Camp Kesesm. We are a national non-profit
 that supports a child through and beyond a parents cancer.
 
 My Hobbies
+
 -I enjoy playing volleyball and swimming, both are sports
 that I played in highschool. I like to paint, I find it
 really relaxing and I have a wall in my bedroom with all
@@ -50,8 +52,8 @@ my moms handwritting!
 
 ![Image](IMG_0304.PNG)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abbymrobinson/abbymrobinson.gethub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-**Thanks For Visiting**
+
+**Thanks For Visiting!**
 
 
