@@ -11,7 +11,7 @@ An introduction to me and what I like!
 **About Me**
 
 -My name is Abby Robinson, I am from Chesterfield which 
-is right outside of richmond and I am a sophmore ISAT 
+is right outside of Richmond and I am a sophmore ISAT 
 major. I have two sibblings, a brother and a sister,
 and a dog named Pippi.
 
