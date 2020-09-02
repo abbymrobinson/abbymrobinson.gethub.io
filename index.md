@@ -30,20 +30,28 @@ really relaxing and I have a wall in my bedroom with all
 my little paintings on it. I also like to spend time with
 friends and family and go to the beach.
 
+Fun Fact: I have a tattoo on my back that is written in 
+my moms handwritting!
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
 
 
 **Photo Gallery**
 
 ![Image](IMG_0065.JPG)
 
+![Image](IMG_0913.jpg)
+
+![Image](IMG_0442.HEIC)
+
+![Image](IMG_1008.JPG)
+
+![Image](IMG_0304.PNG)
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abbymrobinson/abbymrobinson.gethub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**Thanks For Visiting**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
