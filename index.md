@@ -34,9 +34,12 @@ friends and family and go to the beach.
 Fun Fact: I have a tattoo on my back that is written in 
 my moms handwritting!
 
+**My Projects**
 
-
-
+-I createda hello world program as my first project in ISAT 
+252. This was my first attempt at programming with python.
+![Image](hello-world-screenshot.png)
+-
 
 
 **Photo Gallery**
