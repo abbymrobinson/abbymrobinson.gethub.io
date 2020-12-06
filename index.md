@@ -39,7 +39,7 @@ my moms handwritting!
 -I created a hello world program as my first project in this
 course. This was my first attempt at programming with python.
 
-![Image](hello-world-screenshot.png)
+![Image](hello-world-screeshot.png)
 
 -
 
