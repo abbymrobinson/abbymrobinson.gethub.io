@@ -36,8 +36,8 @@ my moms handwritting!
 
 **My Projects**
 
--I created a hello world program as my first project in ISAT 
-252. This was my first attempt at programming with python.
+-I created a hello world program as my first project in this
+course. This was my first attempt at programming with python.
 
 ![Image](hello-world-screenshot.png)
 
