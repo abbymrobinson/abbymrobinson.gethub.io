@@ -46,7 +46,18 @@ per mile to gallons per liter.
 
 ![Image](convertor.py.screenshot.png)
 
+-I completed the Python For Everbody course in freecodecamp which
+consisted of videos and excerises.
 
+![Image](PythonEverybodyScreenshot.png)
+
+-I completed the Data Analysis with Python course in freecodecamp
+which consists of videos and exercices.
+
+![Image](DataTutorialScreenshot.png)
+
+-Me and my team from this semester created a program using 
+python 
 
 
 **Photo Gallery**
