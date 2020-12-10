@@ -60,8 +60,8 @@ which consists of videos and exercices.
 python 
 
 
--My reflective narrative for the semester is posted at the
-link below
+-My reflective narrative for the semester is posted at this
+link
 https://docs.google.com/document/d/1947ut-ojN1qV8ZdYzDZNWAelPJJz8R29f2y_ChnygZI/edit
 
 **Photo Gallery**
