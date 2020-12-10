@@ -20,7 +20,7 @@ and a dog named Pippi.
 -I am interested in going into a biotechnology field,
 specifically into a cancer research field. I enjoy 
 helping people and I am a part of an organization on 
-campus call Camp Kesesm. We are a national non-profit 
+campus called Camp Kesesm. We are a national non-profit 
 that supports a child through and beyond a parents cancer.
 
 **My Hobbies**
@@ -31,8 +31,8 @@ really relaxing and I have a wall in my bedroom with all
 my little paintings on it. I also like to spend time with
 friends and family and go to the beach.
 
-Fun Fact: I have a tattoo on my back that is written in 
-my moms handwritting!
+Fun Fact about m,e: I have a tattoo on my back that is written
+in my moms handwritting!
 
 **My Projects**
 
@@ -66,7 +66,7 @@ zip folder to download the program as well as images of it working.
 https://urldefense.proofpoint.com/v2/url?u=https-3A__drive.google.com_file_d_1QgmYS9QaXi-2DSD9FakUBb0nSIxKkcv3DE_view-3Fusp-3Ddrive-5Fweb&d=DwMFaQ&c=RWKzQL7PIkYKzsYSjZn54yrN72ooGPhHwUXdJ0S2Irw&r=rNcuIlvVqR-EzKZxQxsJIuqrW9tUXtB7N46w-QyR2BM&m=7mJmUdOzIEZBULy_-9-OoE2R2HiFeXrVXFzAr-VrJbc&s=YVpncfIqUIsjZfOwuUZ9Ga9L5OkQxfR0ziuynWv8Nhk&e=
 
 ![Image](print_confirm.JPG)
-![Image](print.continue.JPG)
+![Image](print_continue.JPG)
 ![Image](logo.JPG)
 
 
